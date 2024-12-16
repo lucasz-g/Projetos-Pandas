@@ -1,0 +1,4 @@
+,ID,Faixa_etaria,Sexo_biologico,Raça,IMC,Fumante,Consumo_alcool,Saude_fisica,Saude_mental,Dificuldade_caminhar,Atividade_fisica,Saude_geral,Horas_sono,Problemas_saude
+0,01,55-59,Feminino,Branca,16.6,Sim,Nao,3,30,Nao,Sim,Muito boa,5,"['Diabetes', 'Asma', 'Cancer_pele']"
+1,02,80 ou +,Feminino,Branca,20.34,Nao,Nao,0,0,Nao,Sim,Muito boa,7,['AVC']
+2,03,65-69,Masculino,Branca,26.58,Sim,Nao,20,30,Nao,Sim,Muito boa,8,"['diabetes', 'Asma']"

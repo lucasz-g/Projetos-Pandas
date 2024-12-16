@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "nome": "Filtro de Óleo",
+      "categoria": "Motor",
+      "preco": 35.50,
+      "estoque": 20,
+      "fornecedor": "AutoPartes LTDA"
+    },
+    {
+      "id": 2,
+      "nome": "Pneu Aro 16",
+      "categoria": "Rodas",
+      "preco": 450.00,
+      "estoque": 15,
+      "fornecedor": "Pneus e Cia"
+    },
+    {
+      "id": 3,
+      "nome": "Bateria 60Ah",
+      "categoria": "Elétrica",
+      "preco": 520.90,
+      "estoque": 8,
+      "fornecedor": "EletrAuto"
+    },
+    {
+      "id": 4,
+      "nome": "Pastilha de Freio",
+      "categoria": "Freios",
+      "preco": 120.75,
+      "estoque": 25,
+      "fornecedor": "FreioSeguro"
+    },
+    {
+      "id": 5,
+      "nome": "Velas de Ignição",
+      "categoria": "Motor",
+      "preco": 75.00,
+      "estoque": 30,
+      "fornecedor": "AutoPartes LTDA"
+    }
+  ]
+  
